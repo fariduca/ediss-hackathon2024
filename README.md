@@ -1,6 +1,6 @@
 # EDISS Hackathon 2024
 
-The task of the hackathon was to come up with a problem statement with the data at hand and provide a solution to the problem. The data of the hackathon was comprised of two datasets, a real-world scenario and a simulation scenario. Both datasets had the same structure and set of features. The features included the position data on the track, scenario parameters, the drivers’ neurophysiological variables, and the car parameters like speed, yaw, acceleration, etc.
+The task of the hackathon was to come up with a problem statement with the data at hand and provide a solution to the problem. The data of the hackathon was comprised of two datasets, a real-world scenario and a simulation scenario. The simulation data comes from the [SimuSafe Project](https://www.mdu.se/en/malardalen-university/research/research-projects/simusafe-simulator-of-behavioural-aspects-for-safer-transport). Both datasets had the same structure and set of features. The features included the position data on the track, scenario parameters, the drivers’ neurophysiological variables, and the car parameters like speed, yaw, acceleration, etc.
 
 ## Our approach
 
